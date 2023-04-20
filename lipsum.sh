@@ -1,5 +1,4 @@
 #!/bin/bash 
-#shebang se  lo de arriba q le dice a linux q es ejecutable y debe ejecutarlo con el programa bash
 #man bash en terminal da info de como funciona, con bash lipsum.sh lo ejecuto y genera los 5 txt
 for i in {1..5}
 do
